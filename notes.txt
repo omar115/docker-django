@@ -1,0 +1,4 @@
+important notes on docker commands.
+
+* to build a docker image:
+docker build -t hellodjango:v1 .
